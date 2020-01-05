@@ -57,12 +57,6 @@
     <Compile Include="AddProducts.Designer.cs">
       <DependentUpon>AddProducts.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Login1.Designer.cs">
-      <DependentUpon>Login1.cs</DependentUpon>
-    </Compile>
     <Compile Include="ProductsAvailable.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,9 +67,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AddProducts.resx">
       <DependentUpon>AddProducts.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Login1.resx">
-      <DependentUpon>Login1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProductsAvailable.resx">
       <DependentUpon>ProductsAvailable.cs</DependentUpon>
