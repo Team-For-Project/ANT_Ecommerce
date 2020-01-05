@@ -74,6 +74,9 @@
     <EmbeddedResource Include="AddProducts.resx">
       <DependentUpon>AddProducts.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ProductsAvailable.resx">
       <DependentUpon>ProductsAvailable.cs</DependentUpon>
     </EmbeddedResource>
