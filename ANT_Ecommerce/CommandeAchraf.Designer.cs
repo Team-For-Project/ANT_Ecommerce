@@ -193,7 +193,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.BackColor = System.Drawing.Color.Crimson;
+            this.pictureBox3.BackColor = System.Drawing.Color.Purple;
             this.pictureBox3.Location = new System.Drawing.Point(670, 68);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(141, 129);
