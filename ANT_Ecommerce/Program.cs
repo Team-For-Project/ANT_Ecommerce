@@ -16,7 +16,7 @@ namespace ANT_Ecommerce
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CommandeAchraf());
+            Application.Run(new Form());
         }
     }
 }
